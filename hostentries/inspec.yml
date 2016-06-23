@@ -1,0 +1,8 @@
+name: hostentries
+title: Hostentry InSpec Profile
+maintainer: Dean Wilson <dean.wilson@gmail.com>
+copyright:  Dean Wilson
+copyright_email: Dean Wilson <dean.wilson@gmail.com>
+license: All Rights Reserved
+summary: A Hostentry InSpec Compliance Profile
+version: 0.1.0
